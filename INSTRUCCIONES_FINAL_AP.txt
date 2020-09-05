@@ -20,3 +20,6 @@ https://juanmafb.github.io/
 
 COMENTARIO: Se les dió acceso  para editar el colab y GitHub.
 
+Dirección del colaboratory:
+https://colab.research.google.com/github/JuanMaFB/JuanMaFB.github.io/blob/master/Trabajo_Final_Predictiva.ipynb
+
