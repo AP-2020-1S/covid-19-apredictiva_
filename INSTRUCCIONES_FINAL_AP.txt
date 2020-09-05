@@ -1,0 +1,22 @@
+TRABAJO FINAL ANALÍTICA PREDICTIVA 2020-1
+Integrantes:
+Jose Andres Galeano
+Juan Manuel Florez
+Lina Victoria Parra
+Yesica Andrea Velásquez
+
+INSTRUCCIONES DE ACCESO EN GITHUB:
+Como se conversó con Fernan, acordamos presentar el Dashboard por medio de Data Studio,
+el cual se encuentra embebido en la siguiente página de GitHub:
+https://juanmafb.github.io/
+
+FAVOR SEGUIR LOS SIGUIENTES PASOS:
+1. Para obterner los datos actualizados, se debe acceder a el siguiente repositorio público: 
+https://github.com/JuanMaFB/JuanMaFB.github.io
+2. Clonar el repositorio anterior y ejecutar todo el colab.
+3. Cargar al repositorio del paso 1  los archivos .csv generados en el paso 2.
+4. Visualizar el Dashboard en la dirección:
+https://juanmafb.github.io/
+
+
+
